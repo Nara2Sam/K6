@@ -1,0 +1,11 @@
+{
+  "name": "version",
+  "version": "1.0.0",
+  "description": "this K6 scripts example",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nara Sam",
+  "license": "ISC"
+}
